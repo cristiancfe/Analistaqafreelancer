@@ -119,7 +119,7 @@ footer .rights {
     margin-top: 10px;
     font-size: 14px;
 }
-@media (max-width: 510px){
+@media (max-width: 600px){
     header{
         max-width: 100%;
         justify-content: center;
@@ -132,6 +132,16 @@ footer .rights {
     .profile .imagem-profile img{
         display: none;
        
-    }   
+    } 
+     
+    .contact-info{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        font-size: 12px;        
+    }
+    .info-profile{
+        font-size: 12px;
+    }
     
 }

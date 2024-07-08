@@ -145,5 +145,10 @@ footer .rights {
         font-size: 12px;
         margin-top: 5px;
     }
+    .profile {
+    display: flex;
+    align-items: center;
+    margin-top: 0px;
+}
     
 }

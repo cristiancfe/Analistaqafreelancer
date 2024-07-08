@@ -119,3 +119,19 @@ footer .rights {
     margin-top: 10px;
     font-size: 14px;
 }
+@media (max-width: 510px){
+    header{
+        max-width: 100%;
+        justify-content: center;
+    }
+
+    .carousel-images{
+        max-width: 500px;
+        margin: 0 auto;
+    }
+    .profile .imagem-profile img{
+        display: none;
+       
+    }   
+    
+}
